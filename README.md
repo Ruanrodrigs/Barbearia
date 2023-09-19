@@ -1,6 +1,6 @@
 # Barbearia
 
-![image](https://github.com/Ruanrodrigs/Barbearia/assets/113262643/72e94cac-3ad0-4bc0-bba6-9c24af4feea2)
+![image](https://github.com/Ruanrodrigs/Barbearia/assets/113262643/db22c3d9-25a7-4dd3-90cc-22b1f3297dc1)
 
 
 ## Descrição
